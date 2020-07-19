@@ -2,7 +2,7 @@
 - `DATA BASE`: Sqlalchemy Database
 - `DATA LIMIT`: 10000
 
-My New Updates In This [Channel](https://t.me/DX_Botz) ഇടുന്നതായിരിക്കും.
+My New Updates In This [Channel](https://t.me/DX_Botz)
 
 Our Beta [Filter Bot](https://t.me/Filters_Robot).
 
