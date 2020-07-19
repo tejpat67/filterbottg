@@ -1,19 +1,10 @@
 # filterbot
-A modular telegram Python bot running on python3 with an sqlalchemy database.
-(ഒരു മോഡുലാർ ടെലിഗ്രാം പൈത്തൺ ബോട്ട് പൈത്തൺ 3-ൽ ഒരു സ്ക്ലാൽ‌ചെമി ഡാറ്റാബേസ് ഉപയോഗിച്ച് പ്രവർത്തിക്കുന്നു.)
+- `DATA BASE`: Sqlalchemy Database
+- `DATA LIMIT`: 10000
 
-ഒന്നിലധികം അഡ്‌മിൻ സവിശേഷതകളുള്ള ഒരു ലളിതമായ ഗ്രൂപ്പ് മാനേജുമെന്റ് ബോട്ട്, ഇത് വികസിച്ചു, വളരെ മോഡുലാർ ആയിത്തീർന്നു. ഉപയോഗിക്കാൻ ലളിതമാണ്.
+My New Updates In This [Channel](https://t.me/DX_Botz) ഇടുന്നതായിരിക്കും.
 
-എന്റെ ന്യൂ ഫീച്ചേർസ് [ചാനലിൽ](https://t.me/DX_Botz) ഇടുന്നതായിരിക്കും.
-
-എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [Filter Bot](https://t.me/Filters_Robot).
-
-Marie and I are moderating a [support channel](https://t.me/DX_Botz), where you can ask for help setting up your
-bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
-I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
-
-Join the [news channel](https://t.me/DX_Botz) if you just want to stay in the loop about new features or
-announcements.
+Our Beta [Filter Bot](https://t.me/Filters_Robot).
 
 Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all support questions in the support chat, where more people can help you.)
 
@@ -89,7 +80,6 @@ The following env variables are supported:
  - `WORKERS`: Number of threads to use. 8 is the recommended (and default) amount, but your experience may vary.
  __Note__ that going crazy with more threads wont necessarily speed up your bot, given the large amount of sql data 
  accesses, and the way python asynchronous calls work.
- - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
 
 ### Python dependencies
