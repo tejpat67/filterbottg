@@ -1,4 +1,4 @@
-# filterbot
+# Filterbot
 - `DATA BASE`: Sqlalchemy Database
 - `DATA LIMIT`: 10000
 
