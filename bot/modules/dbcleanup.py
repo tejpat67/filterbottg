@@ -7,7 +7,7 @@ from telegram.ext import CommandHandler, CallbackQueryHandler, run_async
 from bot import dispatcher, OWNER_ID, DEV_USERS
 from bot.modules.helper_funcs.chat_status import dev_plus
 
-import bot.modules.sql.users_sql as user_sql
+#import bot.modules.sql.users_sql as user_sql
 
 
 def get_invalid_chats(bot: Bot, update: Update, remove: bool = False):
