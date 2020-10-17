@@ -1,4 +1,4 @@
-#Modificatins by Sur_vivor
+#Modificatins by Dark Angel
 import html
 import json
 import os
