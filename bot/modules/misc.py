@@ -236,7 +236,6 @@ __help__ = """
  • /info: get information about a user.
 **Sudo/owner only:**
 • /Stats: check bot's stats
-• /chatlist: get chatlist
 **Users:**
 • /slist Gives a list of sudo and support users
 """
